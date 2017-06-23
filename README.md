@@ -27,7 +27,20 @@ Note: For bp-code branches, which will likely be added in the future, all C++ cl
 
 ====================================
 
-We have implemented **basic artificial intelligence units**(templates for passive mobs), **biomes based on geographical factors** that are illustrated in any whittaker diagram, block placing & breaking( **advanced manipulations like stretch and rotation included **), **infinite terrain generation** based on the concept of chunk( mineraft style ) and foliages.
+We have implemented: 
+**basic artificial intelligence units**(templates for passive mobs);
+
+**biomes based on geographical factors** that are illustrated in any whittaker diagram;
+![alt text](https://cplusplusgametricks.files.wordpress.com/2017/06/screen-shot-2017-06-23-at-10-48-16-am.png?w=1352)
+
+block placing & breaking( **advanced manipulations like stretch and rotation included** );
+
+**infinite terrain generation** based on the concept of chunk( mineraft style );
+![alt text](https://cplusplusgametricks.files.wordpress.com/2017/06/screen-shot-2017-06-03-at-11-53-39-pm.png?w=880&h=612)
+
+Custom foliages:
+![alt text](https://cplusplusgametricks.files.wordpress.com/2017/06/screen-shot-2017-06-04-at-10-10-51-pm1.png?w=1352)
+
        
 
           
