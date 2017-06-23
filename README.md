@@ -14,11 +14,14 @@ The terrain generation system uses SimplexNoise2D, which is an enhanced version 
 
 The pseudo code for the dual-chunk generation class:
 
-for(chunkWidth = 0; chunkWidth <= 5; chunkWidth++)
+for(chunkWidth = 0; chunkWidth <= 5; chunkWidth++){
 
-   for(chunkHeight = 0; chunkHeight <= 5; chunkHeight++)
+   for(chunkHeight = 0; chunkHeight <= 5; chunkHeight++){
    
        UWorldSetWorldLocation(VoxelWorldLoc.X, VoxelWorldLoc.Y, USimplexNoise::SimplexNoise2D(VoxelWorldLoc.X, VoxelWorldLoc.y));
+       
+       }
+       }
        
 Note: All the C++ classes are exposed to the blueprint system of UE4, allowing artists to customize the procedural terrain without writing a single line of code.
 
