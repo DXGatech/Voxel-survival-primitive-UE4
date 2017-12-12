@@ -33,6 +33,9 @@ We have implemented:
 **biomes based on geographical factors** that are illustrated in any whittaker diagram;
 ![alt text](https://cplusplusgametricks.files.wordpress.com/2017/06/screen-shot-2017-06-23-at-10-48-16-am.png?w=1352)
 
+**Procedural river generation**
+![alt text](https://i2.wp.com/cplusplusgametricks.files.wordpress.com/2017/12/screen-shot-2017-12-10-at-7-44-37-pm.png?ssl=1&w=450)
+
 block placing & breaking( **advanced manipulations like stretch and rotation included** );
 
 **infinite terrain generation** based on the concept of chunk( mineraft style );
