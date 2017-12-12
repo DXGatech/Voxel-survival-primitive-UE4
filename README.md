@@ -33,7 +33,7 @@ We have implemented:
 **basic artificial intelligence units**(templates for passive mobs);
 
 **biomes based on geographical factors** that are illustrated in any whittaker diagram;
-![alt text](https://cplusplusgametricks.files.wordpress.com/2017/06/screen-shot-2017-06-23-at-10-48-16-am.png?w=1352)
+![alt text](https://i1.wp.com/cplusplusgametricks.files.wordpress.com/2017/12/screen-shot-2017-12-12-at-4-27-05-pm.png?ssl=1&w=450)
 
 **Procedural river generation**
 
