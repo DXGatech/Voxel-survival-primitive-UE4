@@ -1,0 +1,9 @@
+{
+	"Changelist" : 3348071,
+	"CompatibleChangelist" : 3299760,
+	"BuildId" : "",
+	"Modules" : 
+	{
+		"SimplexNoise" : "UE4Editor-SimplexNoise-7920.dylib"
+	}
+}
