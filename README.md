@@ -1,10 +1,12 @@
 # Voxel-survival-primitive-UE4
 
-===============================
+Content:
 
-Note: this repository does not contain any source code for now!
+***Voxel terrain generation***
+heightmap-independent biomes(mountains, oceans, islands, swamp), rivers(short and long), surface overhang, foliages, heightmap-dependent biomes(grassland, desert, tundra)
 
-This is a primitive UE4 project, made to demonstrate how a voxel game can be implemented in unreal engine 4.
+***Runtime effects***
+Dynamic skybox with day/night cycle and weather effects
 
 # Endless terrain generation system
 
