@@ -1,5 +1,7 @@
 # Voxel-survival-primitive-UE4
 
+THIS PROJECT IS NO LONGER MAINTAINED, AS AN ADVANCED VERSION IS CREATED SEPARATELY.
+
 Content:
 
 ***Voxel terrain generation***
